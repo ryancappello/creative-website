@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="860" viewBox="0 0 800 860">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#243e3e"/><stop offset="1" stop-color="#0c1920"/></linearGradient><linearGradient id="body" x2="1" y2="1"><stop stop-color="#668080"/><stop offset=".5" stop-color="#2a4147"/><stop offset="1" stop-color="#12272d"/></linearGradient><linearGradient id="top" x2="1" y2="1"><stop stop-color="#8ca19b"/><stop offset="1" stop-color="#354c50"/></linearGradient></defs>
+<rect width="800" height="860" rx="40" fill="url(#bg)"/><g fill="none" stroke="#b8d7be" opacity=".12"><circle cx="400" cy="410" r="300"/><circle cx="400" cy="410" r="245"/><path d="M40 410h720M400 80v670"/></g>
+<ellipse cx="408" cy="726" rx="243" ry="40" fill="#071016" opacity=".6"/>
+<path d="m189 306 285-65 156 91-13 329-280 77-150-91Z" fill="url(#body)" stroke="#93aaa0" stroke-opacity=".45" stroke-width="2"/>
+<path d="m189 306 150 91 291-65-156-91Z" fill="url(#top)" stroke="#93aaa0" stroke-opacity=".5"/>
+<path d="m224 309 244-52 124 70-246 55Z" fill="#0a191e"/>
+<path d="m256 311 206-43 85 48-204 46Z" fill="#071116"/>
+<path d="m337 397-1 336M189 306l-2 341" stroke="#adc7b4" stroke-opacity=".3" stroke-width="2"/>
+<path d="m363 470 73-17-4 229-72 20Z" fill="#a8b5ae"/><path d="m445 452 74-17-7 226-71 19Z" fill="#506da8"/><path d="m528 433 75-18-8 225-73 20Z" fill="#a4aa70"/>
+<g fill="none" stroke="#0f2429" stroke-width="8" opacity=".65"><path d="m383 497 33-7M465 480l33-7M548 461l33-7"/></g>
+<path d="m221 410 77 46v181l-79-43Z" fill="#152a30" stroke="#728e86" stroke-opacity=".5"/>
+<text x="263" y="503" text-anchor="middle" fill="#d8f24a" font-family="Arial,sans-serif" font-size="16" transform="rotate(30 263 503)">SMART SORT</text>
+<rect x="432" y="364" width="112" height="43" rx="15" fill="#102027" transform="rotate(-13 432 364)"/><circle cx="453" cy="379" r="5" fill="#d8f24a"/><path d="m470 376 43-10" stroke="#d8f24a" stroke-width="3"/>
+<g fill="#d8f24a"><circle cx="398" cy="237" r="4"/><circle cx="398" cy="218" r="3"/><circle cx="398" cy="200" r="2"/></g>
+<path d="m350 126 25-10 22 16 23-17 25 10-13 35-17-7v44l-42 1v-44l-14 7Z" fill="#e5eadd" stroke="#f4f8ef" stroke-width="2" transform="rotate(-8 397 154)"/>
+<g font-family="Arial,sans-serif" fill="#c5d6cb"><text x="55" y="66" font-size="12" letter-spacing="3">SMART SORT / PRODUCT CONCEPT</text><text x="55" y="806" font-size="12" letter-spacing="1">DROP IN. SORT OUT. GET ON WITH YOUR DAY.</text></g>
+<path d="m642 142 9 22 22 9-22 9-9 22-9-22-22-9 22-9Z" fill="#d8f24a"/>
+</svg>
