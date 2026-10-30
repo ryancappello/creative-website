@@ -9,6 +9,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         personal: new URL('./index.html', import.meta.url).pathname,
+        pricing: new URL('./smart-sort/pricing/index.html', import.meta.url).pathname,
         venture: new URL('./smart-sort/index.html', import.meta.url).pathname,
       },
     },
