@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0.0",
+  "version": 1793735814245,
+  "projectName": "Smart Sort Laundry System",
+  "modelName": "Smart Sort Laundry System",
+  "modelType": "Physical product",
+  "confirmedAt": "2026-11-03T19:56:54.245Z",
+  "dimensions": {
+    "units": "m",
+    "size": [
+      0.9599999785423279,
+      1.6130105525497738,
+      0.6769190467586712
+    ]
+  },
+  "coordinateSystem": {
+    "up": "Y",
+    "unit": "meter"
+  },
+  "camera": {
+    "position": [
+      2.9356792056405885,
+      2.9159189947386044,
+      3.5657937976997856
+    ],
+    "target": [
+      0,
+      0.8190052764238986,
+      0.0010404765647850367
+    ],
+    "projection": "perspective"
+  },
+  "background": "#e9e8e3",
+  "lighting": "Soft studio",
+  "description": "Smart Sort is a four-compartment laundry organizer with a tinted lid, sorting hub, and removable fabric bins.",
+  "hotspots": [
+    {
+      "name": "Four laundry compartments",
+      "description": "Separate colors, whites, delicates and non-washables."
+    }
+  ],
+  "files": {
+    "model": "model.glb",
+    "project": "project.json",
+    "preview": "preview.png",
+    "readme": "README.txt"
+  },
+  "integrity": {
+    "algorithm": "SHA-256",
+    "model": "f60c9e6231b2c7e06b8e5089920b59fd944240f7129f8faea6651166f26a37f9"
+  }
+}
